@@ -1,0 +1,3 @@
+./python/export2csv.py --config python/api.cfg --ymd 2013-04-11
+id,woe_id,latitude,longitude,perspective,created
+37222353,23511893,40.783932,-73.957677,1,1365705295
